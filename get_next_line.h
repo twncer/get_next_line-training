@@ -6,8 +6,8 @@
 /*   By: btuncer <btuncer@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/06 15:07:33 by btuncer           #+#    #+#             */
-/*   Updated: 2024/12/06 17:21:29 by btuncer          ###   ########.fr       */
+/*   Updated: 2024/12/08 16:13:52 by btuncer          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#define DEFAULT_BUFFER_SIZE 1
+#define DEFAULT_BUFFER_SIZE 10000000000
